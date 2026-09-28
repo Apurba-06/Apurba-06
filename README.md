@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ About Me: Electrical Engineering student at Jadavpur University | Passionate about coding, robotics and embedded systems.<br><br>🛠 Toolbox: C, C++, Python, HTML, LaTeX, Arduino, ESP32, KiCAD, AutoCAD.<br><br>📫 Reach me: [www.linkedin.com/in/apurba-samanta-b61486281] | [apurbasamanta322@gmail.com]
+⚡ About Me: Electrical Engineering student at Jadavpur University | Passionate about coding, robotics and embedded systems.<br><br>🛠 Toolbox: C, C++, Python, HTML, LaTeX, Arduino, ESP32, KiCAD, Verilog, OrCAD, Matlab, AutoCAD.<br><br>📫 Reach me: [www.linkedin.com/in/apurba-samanta-b61486281] | [apurbasamanta322@gmail.com]
 
 
 ## 🌐 Socials:
